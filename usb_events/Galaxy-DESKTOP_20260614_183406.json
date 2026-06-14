@@ -1,0 +1,10 @@
+{
+  "event": "usb_detected",
+  "message": "USB flash bellek takıldı: TEST_DRIVE\nSahip: Galaxcry\nTelefon: +90 530 717 8328\nBilgisayar: Galaxy-DESKTOP\nIP: 192.168.1.26\nZaman: 2026-06-14 18:33:55\nBu mesaj, USB flash bellek takıldığında otomatik olarak gönderildi.",
+  "hostname": "Galaxy-DESKTOP",
+  "ip": "192.168.1.26",
+  "drives": [
+    "TEST_DRIVE"
+  ],
+  "timestamp": "2026-06-14 18:34:06"
+}
